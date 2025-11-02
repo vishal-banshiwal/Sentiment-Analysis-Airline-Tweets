@@ -1,4 +1,6 @@
 # 💬 Sentiment Analysis on Airline Tweets
+> Extracting customer sentiment from real-world Twitter data.
+
 🗣 **Natural Language Processing (NLP) Project**  
 📅 **Duration:** 2025  
 
